@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    
+}
+@font-face{
+    font-family: vazirmatn;
+src: url('../font/Vazirmatn-Black.woff2') format('woff2');
+font-weight: bold;
+}
+
+p.test{
+    font-family: vazirmatn;
+    margin-right: 10px;
+}
